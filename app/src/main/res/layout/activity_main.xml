@@ -18,7 +18,7 @@
         android:text="@string/move_activity"/>
 
     <Button
-        android:id="@+id/btn_move_with_data"
+        android:id="@+id/btn_move_activity_data"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="@dimen/activity_vertical_margin"
