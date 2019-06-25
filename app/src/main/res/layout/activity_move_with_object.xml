@@ -12,7 +12,7 @@
     tools:context=".MoveWithObjectActivity">
 
     <TextView
-        android:id="@+id/tv_data_received"
+        android:id="@+id/tv_object_received"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/data_received" />
