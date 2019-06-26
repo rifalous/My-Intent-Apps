@@ -1,7 +1,7 @@
 # My-Intent-Apps
 Learn to Make an Android Application for Beginners (Dicoding Academy Class).
 
-Android Apps to Perform Android Intents.
+Android App to Perform Android Intents.
 
 ## Just Learn to Code :
 ### 1. Explicit Intent
